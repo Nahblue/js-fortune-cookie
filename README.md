@@ -17,7 +17,8 @@ Projeto de SPA onde podemos tirar a sorte do dia, lógica feita com Javascript<b
 <br>
 
 <p align="center">
-  <img alt="projeto biscoito da sorte" src="" width="60%">
+  <img alt="projeto biscoito da sorte" src="https://imgur.com/kWqdXpz" width="40%">
+  <img alt="projeto biscoito da sorte" src="https://imgur.com/GuGGGZf" width="40%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi criado usando conceitos de keyframes, animações e manipulação da DOM
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://nahblue.github.io/js-fortune-cookie/)
 
 ## :memo: Licença
 
