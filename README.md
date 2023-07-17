@@ -17,8 +17,8 @@ Projeto de SPA onde podemos tirar a sorte do dia, lógica feita com Javascript<b
 <br>
 
 <p align="center">
-  <img alt="projeto biscoito da sorte" src="https://imgur.com/kWqdXpz" width="40%">
-  <img alt="projeto biscoito da sorte" src="https://imgur.com/GuGGGZf" width="40%">
+  <img alt="projeto biscoito da sorte" src="https://i.imgur.com/kWqdXpz.png" width="40%">
+  <img alt="projeto biscoito da sorte" src="https://i.imgur.com/GuGGGZf.png" width="31%">
 </p>
 
 ## 🚀 Tecnologias
