@@ -1,7 +1,7 @@
 <h1 align="center">Biscoito da sorte</h1>
 
 <p align="center">
-Projeto de SPA onde podemos tirar a sorte do dia, lógica feita com Javascript<br/>
+Projeto onde podemos tirar a sorte do dia, lógica feita com Javascript<br/>
 </p>
 
 <p align="center">
